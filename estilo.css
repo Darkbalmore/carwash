@@ -1,0 +1,27 @@
+body{
+    margin: 0.5em;
+    padding: 0.5em;
+    width: 1280px;
+
+}
+section{
+    width: 85%;
+}
+div{
+    width: 85%
+}
+h2{
+    width: 25%;
+}
+img{
+    width: 100%;
+    height: 255px;
+}
+li{
+    list-style: none;
+    width: 25%;
+    display: inline-block;
+}
+a{
+    text-decoration: none;
+}
